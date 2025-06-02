@@ -1,5 +1,7 @@
 An Alacritty theme auto-switcher script based on KDE global theme.
 
+<video src="https://github.com/user-attachments/assets/a782a28b-2312-42e3-a829-c2b9f11c3279" controls></video>
+
 You can define custom KDE theme - Alacritty theme mappings.
 
 ## Installation
