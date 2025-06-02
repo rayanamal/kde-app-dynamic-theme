@@ -1,0 +1,9 @@
+[Unit]
+Description=Change Alacritty theme when global KDE theme changes
+
+[Service]
+Type=oneshot
+
+# Substitute the two paths below with their actual locations.
+ExecStart=<path-to-nushell-v0.104.0-binary> <path-to-theme-switcher-nu-script>
+
